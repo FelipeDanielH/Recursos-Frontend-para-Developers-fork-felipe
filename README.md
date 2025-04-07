@@ -1,4 +1,4 @@
-💻 MEGA LISTA de Recursos Frontend para Developers
+💻 **MEGA LISTA**❕ de Recursos Frontend para Developers 
 
 Una colección curada de **librerías, frameworks, iconos y herramientas** para construir interfaces modernas sin reinventar la rueda. Ideal para developers que quieren crear más, diseñar menos y enfocarse en lo que importa.
 
